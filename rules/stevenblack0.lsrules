@@ -1,7 +1,7 @@
 {
-	"description" : " Date: 15 December 2018 17:44:46 (UTC) ,  Number of unique domains: 63,275 , ",
-	"name" : "stevenblack0.lsrules",
-	"rules" :  [
+  "description" : " Date: 15 December 2018 17:44:46 (UTC) ,  Number of unique domains: 63,275 , ",
+  "name" : "stevenblack0.lsrules",
+  "rules" :  [
         {
             "action" : "deny",
             "process" : "any",
